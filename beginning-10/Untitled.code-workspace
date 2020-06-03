@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../part2"
+		},
+		{
+			"path": "../part3"
+		},
+		{
+			"path": "../part1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "part1"
+	}
+}
